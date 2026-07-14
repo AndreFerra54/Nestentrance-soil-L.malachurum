@@ -1,6 +1,6 @@
 # Bee-Nest Soil Microbiome
 
-This repository contains the R script and dataset used to analyse soil chemistry, bacterial and fungal communities associated with bee nests, surrounding soils, and bees using physicochemical measurements and metabarcoding data.
+This repository contains the R script and dataset used to analyse physicochemical and microbial properties of nest-entrance soil, control soil, and bees in Lasioglossum malachurum (2023).
 
 ---
 
