@@ -107,9 +107,7 @@ The script was developed using **R version > 4.2**, although recent versions of 
 
 For questions regarding the analyses, data, or code:
 
-**Andrea Ferrari**
-
-*a.ferrari.research@gmail.com*
+**Andrea Ferrari** *a.ferrari.research@gmail.com*
 
 ---
 
