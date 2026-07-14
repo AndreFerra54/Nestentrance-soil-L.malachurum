@@ -45,77 +45,15 @@ The analysis pipeline is organized into modular sections.
 
 ---
 
-## Script structure
+* **0 – Prepare the environment** → Installs and loads required packages, creates output directories, imports the dataset and metadata, formats variables, and prepares the R environment.
 
-### **0 – Prepare the environment**
+* **1 – Soil chemistry analyses** → Performs descriptive and inferential analyses of soil physicochemical variables.
 
-Installs and loads all required R packages, creates output directories, imports metadata and sequencing datasets, formats variables, defines plotting palettes, and prepares the working environment.
+* **2 – Bacterial community analyses (16S)** → Characterizes bacterial communities associated with bee nests, bees, and control soils.
 
----
+* **3 – Fungal community analyses (ITS)** → Characterizes fungal communities associated with bee nests, bees, and control soils.
 
-### **1 – Soil chemistry analyses**
-
-Performs descriptive and inferential analyses of soil physicochemical variables.
-
-Analyses include:
-
-* Summary statistics (mean ± SD)
-* Linear mixed-effects models
-* Type-II ANOVA
-* Tukey post-hoc comparisons
-* Principal Component Analysis (PCA)
-* PERMANOVA
-* Multivariate dispersion analyses
-* Coefficient of variation comparisons
-* Publication-quality boxplots and PCA visualizations
-
----
-
-### **2 – Bacterial community analyses (16S)**
-
-Characterizes bacterial communities associated with bee nests, bees, and control soils.
-
-Analyses include:
-
-* Relative abundance barplots at multiple taxonomic levels
-* Heatmaps of dominant bacterial genera
-* Alpha-diversity analyses (Richness, Shannon diversity, Pielou evenness)
-* Linear mixed-effects models
-* Differential abundance analysis using Maaslin2
-* Venn diagrams of shared OTUs
-* NMDS ordination
-* Beta-diversity analyses
-* PERMANOVA and dispersion tests
-
----
-
-### **3 – Fungal community analyses (ITS)**
-
-Characterizes fungal communities associated with bee nests, bees, and control soils.
-
-Analyses include:
-
-* Relative abundance barplots at multiple taxonomic levels
-* Heatmaps of dominant fungal genera
-* Alpha-diversity analyses
-* Linear mixed-effects models
-* Differential abundance analysis using Maaslin2
-* Venn diagrams of shared OTUs
-* NMDS ordination
-* Beta-diversity analyses
-* PERMANOVA and dispersion tests
-
----
-
-### **4 – Supplementary outputs**
-
-Generates additional tables summarizing taxonomic occurrence across sample types.
-
-Outputs include:
-
-* Presence/absence tables for bacterial genera
-* Presence/absence tables for fungal genera
-* Shared taxonomic information among bees, nests, and surrounding soils
+* **4 – Supplementary outputs** → Generates additional tables summarizing taxonomic occurrence across sample types.
 
 ---
 
