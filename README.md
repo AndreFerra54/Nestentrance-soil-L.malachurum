@@ -8,7 +8,7 @@ This repository contains the R script and dataset used to analyse physicochemica
 
 **Title:** *Overlooked soil engineers: digger bees induce localised shifts in soil chemical properties and microbiome*
 
-**Authors:** *Andrea Ferrari, Raphael Tiziani, Alessandro Borsotti, Federico Ronchetti, Ilaria Fracasso, Oussama Bouaicha, Tanja Mimmo, Luigimaria Borruso, Carlo Polidori
+**Authors:** *Andrea Ferrari, Raphael Tiziani, Alessandro Borsotti, Federico Ronchetti, Ilaria Fracasso, Oussama Bouaicha, Tanja Mimmo, Luigimaria Borruso, Carlo Polidori*
 
 **Journal:** *Soil Biology and Biochemistry*
 
