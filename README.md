@@ -6,17 +6,17 @@ This repository contains the R script and dataset used to analyse physicochemica
 
 ## Associated publication
 
-**Title:** *To be added upon publication*
+**Title:** *Overlooked soil engineers: digger bees induce localised shifts in soil chemical properties and microbiome*
 
-**Authors:** *To be added*
+**Authors:** *Andrea Ferrari, Raphael Tiziani, Alessandro Borsotti, Federico Ronchetti, Ilaria Fracasso, Oussama Bouaicha, Tanja Mimmo, Luigimaria Borruso, Carlo Polidori
 
-**Journal:** *Under review / in preparation*
+**Journal:** *Soil Biology and Biochemistry*
 
 **Year:** *2026*
 
-**DOI:** *To be added*
+**DOI:** *https://doi.org/10.1016/j.soilbio.2026.110341*
 
-**Repository:** *To be added (e.g. Dryad or Zenodo)*
+**Repository:** *Raw dataset is available as supplementary file*
 
 ---
 
@@ -113,4 +113,4 @@ For questions regarding the analyses, data, or code:
 
 ## Citation
 
-If you use this code or dataset, please cite the associated publication once it becomes available.
+If you use this code or dataset, please cite the associated publication.
